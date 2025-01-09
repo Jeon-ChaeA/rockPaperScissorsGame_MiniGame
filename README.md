@@ -49,7 +49,7 @@
 
 ## 🔗 링크
 
-- [가위바위보게임](https://jeon-chaea.github.io/rockPaperScissorsGame/)
+- [가위바위보게임](https://jeon-chaea.github.io/rockPaperScissorsGame_MiniGame/)
 
 
 
